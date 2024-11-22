@@ -1,7 +1,7 @@
 (
-    'Programação',
-    'O que é Lua?',
-    'Lua é uma linguagem de programação'
+    'Matemática',
+    'Quanto é 8x8x4?',
+    '256'
 )
 criaCartao
 criaCartao(
