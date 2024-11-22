@@ -11,13 +11,13 @@ criaCartao(
 )
 
 criaCartao(
-    'Ciências,
-    'Qual é o maior planeta do sistema solar?',
-    'Júpiter 
+    'Culinária',
+    'Quais são os pratos típicos da Itália?',
+    'Os pratos mais típicos da Itália são: Pizza,Ravioli, Spaghetti, Lasagna, Risotto e Arancino'
 )
 
 criaCartao(
-    'Geografia,
-    'Qual é o país mais extensodo mundo?',
-    'Rússia'
+    'Lingua inglesa',
+    'Como se diz romã em Inglês?',
+    'Romã em ingles é pomegranate'
 )
