@@ -5,19 +5,19 @@ criaCartao(
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da Finlândia?',
-    'A capital da Finlândia é Helsinque'
+    'História,
+    'Em que ano o Brasil foi descoberto?',
+    '1500'
 )
 
 criaCartao(
-    'Culinária',
-    'Quais são os pratos típicos da Itália?',
-    'Os pratos mais típicos da Itália são: Pizza,Ravioli, Spaghetti, Lasagna, Risotto e Arancino'
+    'Ciências,
+    'Qual é o maior planeta do sistema solar?',
+    'Júpiter 
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz romã em Inglês?',
-    'Romã em ingles é pomegranate'
+    'Geografia,
+    'Qual é o país mais extensodo mundo?',
+    'Rússia'
 )
