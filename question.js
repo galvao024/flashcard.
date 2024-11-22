@@ -1,7 +1,7 @@
 criaCartao(
-    'Ciências,
-    'O que é Sol?',
-    'É uma estrela'
+    'Programação',
+    'O que é Lua?',
+    'Lua é uma linguagem de programação'
 )
 
 criaCartao(
