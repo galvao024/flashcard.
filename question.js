@@ -5,9 +5,9 @@ criaCartao(
 )
 
 criaCartao(
-    'História,
-    'Em que ano o Brasil foi descoberto?',
-    '1500'
+    'Geografia',
+    'Qual a capital da Finlândia?',
+    'A capital da Finlândia é Helsinque'
 )
 
 criaCartao(
